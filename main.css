@@ -57,16 +57,10 @@ h1 {
 }
 
 #attribution {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
   padding: 10px 20px;
   font-size: 12px;
   color: #333;
   border-top: 1px solid rgb(216, 216, 216);
-  /* text-align: center; */
-  z-index: 1000;
 }
 
 #data-date {
@@ -128,7 +122,7 @@ h1 {
   }
 
 	#notice {
-		font-size: 12px;
+		font-size: 10px;
 	}
 
 	.toilet-section h4 {
